@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/navigation_static"
+      android:icon="@drawable/ic_equalizer"
+      android:title="Statistiques" />
+
+  <item
+      android:id="@+id/navigation_news"
+      android:icon="@drawable/ic_sms"
+      android:title="Actualités" />
+
+
+
+  <item
+      android:id="@+id/navigation_sympthome"
+      android:icon="@drawable/heart"
+      android:title="symptômes" />
+
+  <item
+      android:id="@+id/navigation_help"
+      android:icon="@drawable/ic_aide"
+      android:title="Aide" />
+
+</menu>

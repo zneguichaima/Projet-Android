@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="timerList">
+
+        <item>After 5 secondes</item>
+        <item>After 10 secondes</item>
+        <item>After 15 secondes</item>
+        <item>After 22 secondes</item>
+        <item>After 25 secondes</item>
+    </string-array>
+
+    <string-array name="timerListValues">
+
+        <item>Item one</item>
+        <item>Item two</item>
+        <item>Item three</item>
+        <item>Item four</item>
+        <item>Item five</item>
+    </string-array>
+    
+    <string-array name="fruits_list">
+        <item>Fiévre</item>
+        <item>Touche séche</item>
+        <item>Fatigue</item>
+        <item>Expectoration</item>
+        <item>Essoufflement</item>
+        <item>Douleurs musculaires ou articulaires</item>
+        <item>Gorge irrité</item>
+        <item>Mal de tete</item>
+        <item>Frissons</item>
+        <item>Nausée ou vomissement</item>
+        <item>Congestion nasale</item>
+        <item>Diarrhé</item>
+        <item>Hémoptysie</item>
+        <item>Congestion conjonctivale</item>
+    </string-array>
+
+    <string-array name="degre_list">
+        <item>87.9%</item>
+        <item>67.7%</item>
+        <item>38.1%</item>
+        <item>33.4%</item>
+        <item>18.6%</item>
+        <item>14.8%</item>
+        <item>13.9%</item>
+        <item>13.6%</item>
+        <item>11.4%</item>
+        <item>5.0%</item>
+        <item>4.8%</item>
+        <item>3.7%</item>
+        <item>0.9%</item>
+        <item>0.8%</item>
+    </string-array>
+</resources>
